@@ -1,0 +1,3 @@
+Nuclear Energy,20
+Coal,60
+Hydropower,20
